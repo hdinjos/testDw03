@@ -1,0 +1,1 @@
+SELECT users.*, cities.* FROM users INNER JOIN cities ON users.id=cities.id
